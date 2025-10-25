@@ -16,3 +16,8 @@ price = 10.99
 print(f"The price is ${price}")
 
 
+#BOOLEAN
+is_student = True
+for_sale = False
+is_Online = True
+
